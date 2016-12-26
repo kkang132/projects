@@ -1,4 +1,0 @@
-# Sample commit
-Duh, duh, duh
-
-# test change
